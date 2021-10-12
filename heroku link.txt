@@ -1,0 +1,29 @@
+https://secure-eyrie-88104.herokuapp.com/
+
+
+
+
+
+
+
+
+https://secure-eyrie-88104.herokuapp.com/api?Query={"id":"Latifa","name":"Latifa Kapiligi","role":"user","image":"https://ca.slack-edge.com/T02RM6X6B-U01AXAF23MG-f57403a3cb0d-512"}
+
+https://firebasestorage.googleapis.com/v0/b/flutter-products-c24f0.appspot.com/o/images%2F22ba13c2-3995-4765-b2aa-de562445d95e-image_cropper_1615418551499.jpg?alt=media&token=22ba13c2-3995-4765-b2aa-de562445d95e
+
+/home/shabodevop/Documents/FlutterProjects/XisserProject/XisserOnlineApp/Xisser/android/app/Users/key.jks
+
+
+
+
+
+url = 'https://secure-eyrie-88104.herokuapp.com/api?Query={"id":"$id","name":"$name","role":"user","image":"$imageUrl"}';
+
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+    GeneratedPluginRegistrant.registerWith(flutterEngine)
+}
+
+
